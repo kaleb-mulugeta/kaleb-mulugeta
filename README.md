@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **skalebsmlu@gmail.com**
+- 📫 How to reach me **skalebsmulu@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/kaleb-mulugeta](https://github.com/kaleb-mulugeta)
 
